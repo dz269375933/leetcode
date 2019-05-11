@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/First/First.iml" filepath="$PROJECT_DIR$/First/First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution10/Solution10.iml" filepath="$PROJECT_DIR$/Solution10/Solution10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution11/Solution11.iml" filepath="$PROJECT_DIR$/Solution11/Solution11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution12/Solution12.iml" filepath="$PROJECT_DIR$/Solution12/Solution12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution13/Solution13.iml" filepath="$PROJECT_DIR$/Solution13/Solution13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution14/Solution14.iml" filepath="$PROJECT_DIR$/Solution14/Solution14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution148/Solution148.iml" filepath="$PROJECT_DIR$/Solution148/Solution148.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution15/Solution15.iml" filepath="$PROJECT_DIR$/Solution15/Solution15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution16/Solution16.iml" filepath="$PROJECT_DIR$/Solution16/Solution16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution17/Solution17.iml" filepath="$PROJECT_DIR$/Solution17/Solution17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution18/Solution18.iml" filepath="$PROJECT_DIR$/Solution18/Solution18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution19/Solution19.iml" filepath="$PROJECT_DIR$/Solution19/Solution19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution20/Solution20.iml" filepath="$PROJECT_DIR$/Solution20/Solution20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution21/Solution21.iml" filepath="$PROJECT_DIR$/Solution21/Solution21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution22/Solution22.iml" filepath="$PROJECT_DIR$/Solution22/Solution22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution23/Solution23.iml" filepath="$PROJECT_DIR$/Solution23/Solution23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution26/Solution26.iml" filepath="$PROJECT_DIR$/Solution26/Solution26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution3/Solution3.iml" filepath="$PROJECT_DIR$/Solution3/Solution3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution4/Solution4.iml" filepath="$PROJECT_DIR$/Solution4/Solution4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution5/Solution5.iml" filepath="$PROJECT_DIR$/Solution5/Solution5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution6/Solution6.iml" filepath="$PROJECT_DIR$/Solution6/Solution6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution7/Solution7.iml" filepath="$PROJECT_DIR$/Solution7/Solution7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution8/Solution8.iml" filepath="$PROJECT_DIR$/Solution8/Solution8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solution9/Solution9.iml" filepath="$PROJECT_DIR$/Solution9/Solution9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leeCode.iml" filepath="$PROJECT_DIR$/leeCode.iml" />
+    </modules>
+  </component>
+</project>
